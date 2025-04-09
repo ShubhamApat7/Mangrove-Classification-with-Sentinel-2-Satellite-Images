@@ -1,0 +1,19 @@
+The dataset consists of manually labeled geometry points for Mangrove and Non-Mangrove regions across various coastal zones in India, including:
+
+Sundarban Forest (West Bengal)
+
+Gulf of Khambhat (Gujarat)
+
+Pichavaram Mangroves (Tamil Nadu)
+
+Andaman & Nicobar Islands
+
+Chorao Island (Goa)
+
+Gulf of Kutch (Gujarat)
+
+Mangrove Points: Marked based on known plantations and verified through satellite image inspection.
+
+Non-Mangrove Points: Include water bodies, barren lands, forests, and vegetative regions adjacent to mangrove zones.
+
+All points were identified using satellite imagery analysis across NDVI, NDWI, and CMIR bands to confirm vegetation type and water proximity.
